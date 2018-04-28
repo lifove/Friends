@@ -3,7 +3,7 @@ package edu.handong.csee.java.example;
 public class InstanceOf {
 
 	public static void showWhatFriend(Friend friend){
-		friend.writeDescriptuon();
+		friend.writeDescription();
 	}
 	
 	public static void main(String[] args) {

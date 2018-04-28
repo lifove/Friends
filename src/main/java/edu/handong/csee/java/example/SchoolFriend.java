@@ -2,7 +2,7 @@ package edu.handong.csee.java.example;
 
 public class SchoolFriend extends Friend {
 	
-	public void writeDescriptuon(){
+	public void writeDescription(){
 		System.out.println("School Friend!");
 	}
 
